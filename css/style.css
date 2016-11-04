@@ -165,7 +165,7 @@ img.logo {
 	color: #00274c;
 }
 
-.alumni-landing-page #top-navigation .nav li, .alumni-inner-page #top-navigation .nav li {
+.alumni-landing-page #top-navigation .nav li, .alumni-inner-page #top-navigation .nav > li {
 	display: inline-block;
 	font-size:.8em;
 }
