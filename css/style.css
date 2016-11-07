@@ -270,6 +270,11 @@ article.white-semi-trans-bg  {
   font-size: 2em;
 }
 
+#block-better-jump-menu-menu-alumni-relations .form-control {
+	width:80%;
+	display:inline-block;
+}
+
 #block-menu-menu-alumni-inner-pages-menu {
 	background: rgba(1,37,122,.1);
 	border: solid 1px rgba(1,37,122,.3);
