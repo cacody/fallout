@@ -477,6 +477,11 @@ article.white-semi-trans-bg  {
 /* landscape phone to portrait tablet */
 @media (max-width: 767px) {
 
+body.alumni-inner-page {
+	background-image: none;
+}
+
+
 	  /* Mobile Navigation */
 
 	.button {
