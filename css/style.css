@@ -18,8 +18,9 @@
 
 .alumni-inner-page body {
 	position: relative;
-	background: url(/sites/default/files/Alumni%20%26%20Friends/alumni-inner-page-bg.png);
+	background: url('/sites/default/files/Alumni%20%26%20Friends/alumni-inner-page-bg.png');
 	background-repeat: repeat-y;
+	background-color: transparent;
 }
 
 #main-upper, #main-content, #main-lower, #main-bottom {
