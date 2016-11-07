@@ -155,7 +155,12 @@ img.logo {
 }
 
 .alumni-inner-page #main-top {
-	background:transparent;
+	background: #ECE7D1;
+	box-shadow: 0 1px 7px -3px;	
+}
+
+.alumni-inner-page #main-top h1 {
+	background: transparent;
 }
 
 #main-top h1 {
