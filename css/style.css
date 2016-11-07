@@ -677,6 +677,18 @@ body.alumni-inner-page {
 		background-image: url('/sites/default/files/Alumni%20%26%20Friends/alumni-inner-page-bg.png');
 		background-repeat: repeat-y;
 		background-color: transparent;
+		background-size: 87%;
+	}
+}
+
+
+@media (min-width: 1600px) {
+	
+	body.alumni-inner-page {
+		position: relative;
+		background-image: url('/sites/default/files/Alumni%20%26%20Friends/alumni-inner-page-bg.png');
+		background-repeat: repeat-y;
+		background-color: transparent;
 		background-size: 106%;
 	}
 }
