@@ -16,6 +16,12 @@
 
 /** GLOBAL DEFAULTS **/
 
+.alumni-inner-page body {
+	position: relative;
+	background: url(/sites/default/files/Alumni%20%26%20Friends/alumni-inner-page-bg.png);
+	background-repeat: repeat-y;
+}
+
 #main-upper, #main-content, #main-lower, #main-bottom {
 	padding: 15px 0;
 }
@@ -244,10 +250,10 @@ input.alumni-lp-rogue-menu-item {
 /**  <main> CONTENT AREA DEFAULTS  **/
 
 main {
-	background: url('/sites/default/files/Alumni%20%26%20Friends/alumni-inner-page-bg.png');
+/*	background: url('/sites/default/files/Alumni%20%26%20Friends/alumni-inner-page-bg.png');
 	background-repeat: no-repeat;
 	background-position: ;
-	background-size: ;
+	background-size: ;*/
 }
 
 article.white-semi-trans-bg  {
