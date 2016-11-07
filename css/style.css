@@ -154,8 +154,8 @@ img.logo {
 	padding-bottom:15px;
 }
 
-#main-top {
-	background:#fff;
+.alumni-inner-page #main-top {
+	background:transparent;
 }
 
 #main-top h1 {
