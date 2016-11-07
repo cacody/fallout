@@ -487,6 +487,11 @@ body.alumni-inner-page {
 	background-image: none;
 }
 
+body.alumni-inner-page aside {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #F7F3E7;
+}
 
 	  /* Mobile Navigation */
 
