@@ -698,6 +698,15 @@ body.alumni-inner-page {
 	#main-top.bg-image {
 		background-position: 0 -129px !important;
 	}
+	
+	body.alumni-inner-page {
+		position: relative;
+		background-image: url('/sites/default/files/Alumni%20%26%20Friends/alumni-inner-page-bg.png');
+		background-repeat: repeat-y;
+		background-color: transparent;
+		background-size: 112%;
+	}
+	
 }
 
 
