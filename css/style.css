@@ -16,9 +16,9 @@
 
 /** GLOBAL DEFAULTS **/
 
-.alumni-inner-page body {
+body.alumni-inner-page {
 	position: relative;
-	background: url('/sites/default/files/Alumni%20%26%20Friends/alumni-inner-page-bg.png');
+	background-image: url('/sites/default/files/Alumni%20%26%20Friends/alumni-inner-page-bg.png');
 	background-repeat: repeat-y;
 	background-color: transparent;
 }
