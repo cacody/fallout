@@ -155,8 +155,8 @@ img.logo {
 }
 
 .alumni-inner-page #main-top {
-	background: #ECE7D1;
-	box-shadow: 0 1px 7px -3px;	
+	background: #587DBA;
+    box-shadow: 0 1px 7px -3px;	
 }
 
 #main-top h1 {
@@ -166,7 +166,9 @@ img.logo {
 }
 
 #main-top h1 a {
-	color: #00274c;
+	color: #fff;
+    padding-top: 7px;
+    display: block;
 }
 
 .alumni-landing-page #top-navigation .nav li, .alumni-inner-page #top-navigation .nav > li {
