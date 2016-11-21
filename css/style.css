@@ -175,6 +175,18 @@ img.logo {
     display: block;
 }
 
+.alumni-landing-page #main-top .section-title h1 {
+	margin-top: 0;
+	padding: 5px 15px;
+	background: none;
+}
+
+.alumni-landing-page #main-top .section-title h1 a {
+	color: #fff;
+    padding-top: 7px;
+    display: block;
+}
+
 .alumni-landing-page #top-navigation .nav li, .alumni-inner-page #top-navigation .nav > li {
 	display: inline-block;
 	font-size:.8em;
