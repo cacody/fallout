@@ -182,9 +182,12 @@ img.logo {
 }
 
 .alumni-landing-page #main-top .section-title h1 a {
-	color: #fff;
-    padding-top: 7px;
-    display: block;
+	color: #00274c;
+	padding-top: 7px;
+	display: inline-block;
+	background: rgba(255,203,5,.5);
+	padding: 10px;
+	border-top-right-radius: 24px;
 }
 
 .alumni-landing-page #top-navigation .nav li, .alumni-inner-page #top-navigation .nav > li {
