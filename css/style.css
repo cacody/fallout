@@ -240,6 +240,12 @@ input.alumni-lp-rogue-menu-item {
 	background: #587abc;
 }
 
+.alumni-landing-page-headline {
+	padding: 3px 23px 24px 24px;
+	background: rgba(0,0,0,.4);
+	color: white;
+}
+
 
 /**  MAIN UPPER REGION DEFAULTS  **/
 
