@@ -17,10 +17,11 @@
 /** GLOBAL DEFAULTS **/
 
 body.alumni-inner-page {
-	position: relative;
+	background-color: #fff;
+	/*position: relative;
 	background-image: url('/sites/default/files/Alumni%20%26%20Friends/alumni-inner-page-bg.png');
 	background-repeat: repeat-y;
-	background-color: transparent;
+	background-color: transparent;*/
 }
 
 #main-upper, #main-content, #main-lower, #main-bottom {
@@ -726,11 +727,12 @@ body.alumni-inner-page aside {
 @media (min-width: 768px) and (max-width: 991px) {
 	
 	body.alumni-inner-page {
-		position: relative;
+		background-color: #fff;
+		/*position: relative;
 		background-image: url('/sites/default/files/Alumni%20%26%20Friends/alumni-inner-page-bg.png');
 		background-repeat: repeat-y;
 		background-color: transparent;
-		background-size: 91%;
+		background-size: 91%;*/
 	}
 	
 	.alumni-landing-page-colored-blocks-row {
@@ -742,11 +744,12 @@ body.alumni-inner-page aside {
 @media (min-width: 992px) and (max-width: 1599px) {
 	
 	body.alumni-inner-page {
-		position: relative;
+		background-color: #fff;
+		/*position: relative;
 		background-image: url('/sites/default/files/Alumni%20%26%20Friends/alumni-inner-page-bg.png');
 		background-repeat: repeat-y;
 		background-color: transparent;
-		background-size: 87%;
+		background-size: 87%;*/
 	}
 	
 	.alumni-landing-page-colored-blocks-row {
@@ -758,11 +761,12 @@ body.alumni-inner-page aside {
 @media (min-width: 1600px) {
 	
 	body.alumni-inner-page {
-		position: relative;
+		background-color: #fff;
+		/*position: relative;
 		background-image: url('/sites/default/files/Alumni%20%26%20Friends/alumni-inner-page-bg.png');
 		background-repeat: repeat-y;
 		background-color: transparent;
-		background-size: 106%;
+		background-size: 106%;*/
 	}
 	
 	.alumni-landing-page-colored-blocks-row {
@@ -778,11 +782,12 @@ body.alumni-inner-page aside {
 	}
 	
 	body.alumni-inner-page {
-		position: relative;
+		background-color: #fff;
+		/*position: relative;
 		background-image: url('/sites/default/files/Alumni%20%26%20Friends/alumni-inner-page-bg.png');
 		background-repeat: repeat-y;
 		background-color: transparent;
-		background-size: 112%;
+		background-size: 112%;*/
 	}
 	
 	.alumni-landing-page-colored-blocks-row {
