@@ -246,6 +246,10 @@ input.alumni-lp-rogue-menu-item {
 	color: white;
 }
 
+.alumni-landing-page-colored-blocks-row {
+	margin-top:0;
+}
+
 .alumni-landing-page-colored-blocks {
 	text-align:center;
 }
@@ -704,6 +708,8 @@ body.alumni-inner-page aside {
 	        max-width:90%;
 	}
 
+	.alumni-landing-page-colored-blocks-row {
+		margin-top:0;
 	}
 
 	
@@ -727,6 +733,10 @@ body.alumni-inner-page aside {
 		background-size: 91%;
 	}
 	
+	.alumni-landing-page-colored-blocks-row {
+		margin-top:0;
+	}
+	
 }
 
 @media (min-width: 992px) and (max-width: 1599px) {
@@ -737,6 +747,10 @@ body.alumni-inner-page aside {
 		background-repeat: repeat-y;
 		background-color: transparent;
 		background-size: 87%;
+	}
+	
+	.alumni-landing-page-colored-blocks-row {
+		margin-top:275;
 	}
 }
 
@@ -750,6 +764,11 @@ body.alumni-inner-page aside {
 		background-color: transparent;
 		background-size: 106%;
 	}
+	
+	.alumni-landing-page-colored-blocks-row {
+		margin-top:375;
+	}
+	
 }
 
 
@@ -764,6 +783,10 @@ body.alumni-inner-page aside {
 		background-repeat: repeat-y;
 		background-color: transparent;
 		background-size: 112%;
+	}
+	
+	.alumni-landing-page-colored-blocks-row {
+		margin-top:375;
 	}
 	
 }
