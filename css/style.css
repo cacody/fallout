@@ -386,9 +386,9 @@ article.white-semi-trans-bg  {
 	padding-bottom: 0;
 }
 
-#block-menu-menu-alumni-relations-2 .nav > li > a.active-trail .dropdown-menu > li > a {
-	font-weight:bold;
-	color: #cc6600;
+.active-trail .dropdown-menu > li > a {
+    color: #cc6600;
+    font-weight: bold;
 }
 
 
