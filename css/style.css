@@ -394,6 +394,7 @@ article.white-semi-trans-bg  {
 .active-trail .dropdown-menu > .active > a {
     color: #cc6600;
     font-weight: bold;
+	background: none;
 }
 
 
