@@ -374,7 +374,13 @@ article.white-semi-trans-bg  {
 }
 
 #block-menu-menu-alumni-relations-2 .nav > li > a {
-	color: #00274c;
+	color: #465d85;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#block-menu-menu-alumni-relations-2 .nav > li > a.active-trail {
+	color: #7a121c;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -382,7 +388,7 @@ article.white-semi-trans-bg  {
 
 #block-menu-menu-alumni-relations-2 .nav > li > a:hover, .nav > li > a:focus {
     text-decoration: none;
-    background-color: rgba(1,37,122,.3);
+    background-color: none;
 }
 /**  MAIN LOWER REGION DEFAULTS  **/
 
