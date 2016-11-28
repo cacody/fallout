@@ -390,6 +390,10 @@ article.white-semi-trans-bg  {
 	padding-bottom: 0;
 }
 
+#block-menu-menu-alumni-relations-2 .dropdown-menu > li > a {
+	white-space: wrap;
+}
+
 .active-trail .dropdown-menu > li > a {
     color: #7a121c;
     font-weight: bold;
