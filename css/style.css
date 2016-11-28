@@ -365,6 +365,10 @@ article.white-semi-trans-bg  {
 	margin-right: 8px;
 }
 
+#block-menu-menu-alumni-relations-2 ul.dropdown-menu {
+	position: relative;
+}
+
 #block-menu-menu-alumni-relations-2 li.active-trail .dropdown-menu {
 	display:block;
 	position:relative;
