@@ -368,6 +368,9 @@ article.white-semi-trans-bg  {
 #block-menu-menu-alumni-relations-2 li.active-trail .dropdown-menu {
 	display:block;
 	position:relative;
+	box-shadow:none;
+	border:none;
+	background-clip:none;
 }
 
 #block-menu-menu-alumni-relations-2 .nav > li > a {
