@@ -246,6 +246,12 @@ input.alumni-lp-rogue-menu-item {
 	color: white;
 }
 
+.alumni-landing-page-headline h2 {
+	font-weight: normal;
+	text-transform: uppercase;
+	font-size: 1.6em;
+}
+
 .alumni-landing-page-headline a {
 	color: #ffcb05;
 	text-transform: uppercase;
