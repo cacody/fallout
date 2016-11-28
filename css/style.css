@@ -183,11 +183,10 @@ img.logo {
 }
 
 .alumni-landing-page #main-top .section-title h1 a {
-	color: #fff;
-	padding-top: 7px;
-	display: inline-block;
-	background: rgba(255,203,5,.9);
-	padding: 10px;
+	color: #00274c;
+    padding-top: 7px;
+    background: rgba(255,203,5,.9);
+    padding: 10px;
 }
 
 .alumni-landing-page #top-navigation .nav li, .alumni-inner-page #top-navigation .nav > li {
@@ -337,11 +336,6 @@ article.white-semi-trans-bg  {
 	color: #002a5b;
     font-weight: bold;
     text-transform: uppercase;
-}
-
-/* TEMP while Developing  */
-.page-node-1714 .region-content-top ul.nav.nav-pills li.first.last.leaf {
-	display:none;
 }
 
 
