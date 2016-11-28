@@ -398,9 +398,12 @@ article.white-semi-trans-bg  {
 }
 
 
-#block-menu-menu-alumni-relations-2 .nav > li > a:hover, #block-menu-menu-alumni-relations-2 .nav > li > a:focus {
+#block-menu-menu-alumni-relations-2 .nav > li > a:hover, 
+#block-menu-menu-alumni-relations-2 .nav > li > a:focus, 
+.alumni-inner-page .region-sidebar-first .nav > li > a:hover, 
+.alumni-inner-page .region-sidebar-first .nav > li > a:focus {
     text-decoration: none;
-    background-color: none;
+    background-color: transparent;
 }
 /**  MAIN LOWER REGION DEFAULTS  **/
 
