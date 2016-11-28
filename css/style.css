@@ -277,10 +277,15 @@ input.alumni-lp-rogue-menu-item {
 
 .block-medium h2 {
 	color: #fff;
+	font-size: 1.4em;
+    padding-top: 10px;
+    text-align: center;
 }
 	
 .block-medium a {
 	color: #fff;
+	display: block;
+	text-align: center;
 }
 
 
