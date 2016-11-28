@@ -248,6 +248,9 @@ input.alumni-lp-rogue-menu-item {
 
 .alumni-landing-page-headline a {
 	color: #ffcb05;
+	text-transform: uppercase;
+	font-weight: normal;
+	font-size: 1.6em;
 }
 
 .alumni-landing-page-colored-blocks-row {
@@ -284,6 +287,7 @@ input.alumni-lp-rogue-menu-item {
 	font-size: 1.4em;
     padding-top: 10px;
     text-align: center;
+	text-transform: uppercase;
 }
 	
 .block-medium a {
