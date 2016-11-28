@@ -306,10 +306,12 @@ input.alumni-lp-rogue-menu-item {
 }
 
 .alumni-landing-page #main-upper {
-	background-image: url('/sites/default/files/alumni-alert-background.jpg');
+	background-image: url('/sites/default/files/alumni-landing-page-give-blue-background.jpg');
 	background-repeat: none;
 	background-size: cover;
 	background-position: 0 0;
+	padding-top: 0;
+	padding-bottom: 0;
 }
 
 #main-upper p {
