@@ -383,6 +383,12 @@ article.white-semi-trans-bg  {
 	color: #7a121c;
     font-weight: bold;
     text-transform: uppercase;
+	padding-bottom: 0;
+}
+
+#block-menu-menu-alumni-relations-2 .nav > li > a.active-trail .dropdown-menu > li > a {
+	font-weight:bold;
+	color: #cc6600;
 }
 
 
