@@ -359,24 +359,24 @@ article.white-semi-trans-bg  {
   font-size: 2em;
 }
 
-#block-better-jump-menu-menu-alumni-relations .form-control {
+#block-better-jump-menu-menu-alumni-relations-2 .form-control {
 	width:80%;
 	display:inline-block;
 	margin-right: 8px;
 }
 
-#block-menu-menu-alumni-relations {
+#block-menu-menu-alumni-relations-2 {
 
 }
 
-#block-menu-menu-alumni-relations .nav > li > a {
-	color: #002a5b;
+#block-menu-menu-alumni-relations-2 .nav > li > a {
+	color: #00274c;
     font-weight: bold;
     text-transform: uppercase;
 }
 
 
-#block-menu-menu-alumni-relations .nav > li > a:hover, .nav > li > a:focus {
+#block-menu-menu-alumni-relations-2 .nav > li > a:hover, .nav > li > a:focus {
     text-decoration: none;
     background-color: rgba(1,37,122,.3);
 }
