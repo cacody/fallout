@@ -398,7 +398,7 @@ article.white-semi-trans-bg  {
 }
 
 
-#block-menu-menu-alumni-relations-2 .nav > li > a:hover, .nav > li > a:focus {
+#block-menu-menu-alumni-relations-2 .nav > li > a:hover, #block-menu-menu-alumni-relations-2 .nav > li > a:focus {
     text-decoration: none;
     background-color: none;
 }
